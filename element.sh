@@ -37,3 +37,4 @@ if [[ "$1" != "$SYMBOL" && "$1" != "$NAME" && "$1" != "$ATOMIC_NUMBER" ]];
 then
 echo "I could not find that element in the database."
 fi
+ge
